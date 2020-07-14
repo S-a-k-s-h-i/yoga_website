@@ -4,4 +4,6 @@
   <li>Html</li>
   <li>CSS</li>
   <li>Bootstrap</li>
-  <li>Javascript</li></ul?</p>
+  <li>Javascript</li></ul></p>
+<img src="yoga.png" height="300px">
+<img src="y.png" height="300px">
